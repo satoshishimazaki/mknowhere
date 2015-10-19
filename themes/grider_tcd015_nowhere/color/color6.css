@@ -1,0 +1,22 @@
+body { background:#c9b588; }
+
+a, a:visited, #single_post .post_category a:hover, #related_post .title a:hover, body .side_widget a:hover
+ { color:#810100; }
+
+a:hover, #global_menu ul li a:hover, .post_list .post_title a, #single_post .post_title, #post_meta #meta li a:hover, #comments a:hover
+ { color:#a20000; }
+
+#side_category ul li a, #side_archive ul li a:hover, #wp-calendar td#today, #wp-calendar #prev a:hover, #wp-calendar #next a:hover, .grid_layout #archive_headline
+ { background-color:#a20000; }
+
+#side_category ul li a:hover
+ { background-color:#810100; }
+
+.grid_layout #archive_headline:after { border:10px solid #a20000; border-color:transparent; border-top-color:#a20000; }
+
+.post_list .post_item:hover { box-shadow:0px 0px 0px 5px #a20002; }
+
+.ie7 .post_list .post_item:hover { background:#fff3f3; }
+
+.ie8 .post_list .post_item:hover { outline:4px solid #a20002; }
+.ie8 .grid_layout .post_list .post_item.banner_block:hover { outline:none; }

@@ -1,0 +1,21 @@
+
+#main_content { padding-bottom:50px; }
+
+.grid_layout #left_col { padding:35px 0 0 0; }
+
+#post_list .post_title { padding:15px 0 0 0; }
+
+#global_menu ul li a { background:url(img/common/arrow4.gif) no-repeat left 4px; }
+
+#single_post .post_title { padding:15px 0 0 0; }
+
+#related_post li { float:left; }
+
+#side_category li { line-height:0; font-size:1%;}
+#side_category a { zoom:1; line-height:160%; font-size:12px; }
+
+.nivo-controlNav a {
+    text-indent: 0;
+    font-size: 0;
+    line-height: 0;
+}

@@ -1,0 +1,6 @@
+body { background:#83cddc; }
+
+.ie7 .post_list .post_item:hover { background:#e6f9ff; }
+
+.ie8 .post_list .post_item:hover { outline:4px solid #4cbee3; }
+.ie8 .grid_layout .post_list .post_item.banner_block:hover { outline:none; }
